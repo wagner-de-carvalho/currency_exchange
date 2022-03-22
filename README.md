@@ -134,7 +134,7 @@ The project has three main layers:
 
 - Web: Responsible for API routes, views and error handling of routes.
 
-**Developer** [Wagner Patrick de Carvalho](https://github.com/wagncarv)
+**Developer** [Wagner Patrick de Carvalho](https://github.com/wagner-de-carvalho)
 
 ⌨️ By [Wagner Patrick de Carvalho](https://github.com/wagner-de-carvalho) 😊# elixir_phoenix
 # currency_exchange
