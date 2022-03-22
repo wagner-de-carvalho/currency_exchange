@@ -16,7 +16,7 @@ To run the project, you need to have:
 
 - Download the project from `Github`:
 `
-    git clone https://github.com/wagncarv/CurrencyExchange.git
+    git clone https://github.com/wagner-de-carvalho/currency_exchange
 `
 - Download the dependencies:
 Inside the project folder run:
@@ -136,5 +136,5 @@ The project has three main layers:
 
 **Developer** [Wagner Patrick de Carvalho](https://github.com/wagncarv)
 
-⌨️ By [Wagner Patrick de Carvalho](https://github.com/wagncarv) 😊# elixir_phoenix
+⌨️ By [Wagner Patrick de Carvalho](https://github.com/wagner-de-carvalho) 😊# elixir_phoenix
 # currency_exchange
