@@ -1,0 +1,25 @@
+{
+    "skip_files": [
+      "lib/conversor/application.ex",
+      "lib/conversor/release.ex",
+      "lib/conversor_web.ex",
+      "lib/conversor/database/db_server.ex",
+      "lib/conversor/mailer.ex",
+      "lib/conversor/repo.ex",
+      "lib/conversor_web/views/error_view.ex",
+      "lib/conversor_web/views/transaction_view",
+      "lib/conversor_web/views/error_helpers.ex",
+      "test/support/channel_case.ex",
+      "test/support/data_case.ex", 
+      "lib/conversor_web/telemetry.ex",
+      "lib/conversor_web/router.ex",
+      "lib/conversor_web/endpoint.ex",
+      "lib/conversor_web/gettext.ex",
+      "test/support/conn_case.ex"
+    ],
+    "coverage_options": {
+      "treat_no_relevant_lines_as_covered": true,
+      "output_dir": "cover/",
+      "minimum_coverage": 70
+    }
+  }
